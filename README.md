@@ -26,6 +26,8 @@ LLM & Agentic Applications, LLM-as-judge evaluation loops, and the LLMOps that k
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**guarded-agentic-rag**](https://github.com/cuongnguyengit/guarded-agentic-rag) | Reference agentic RAG that is safe to ship: planner/worker fan-out, OWASP-mapped guardrails (PII masking, prompt-injection screening, KB-poisoning quarantine), self-repairing citation validators, budgets with fallback — plus an eval harness (100% injections blocked, 0 false blocks on `qwen3:8b`) | Python · LangGraph · Ollama/vLLM |
+| [**claugram**](https://github.com/cuongnguyengit/claugram) | Claude Code ↔ Telegram bridge: answer the agent's questions, approve risky tool calls and drive sessions from your phone, via Claude Code hooks + an MCP server | Python · MCP · Telegram |
 | [**PyCLIProxyAPI**](https://github.com/cuongnguyengit/PyCLIProxyAPI) | One OpenAI-compatible endpoint in front of Copilot, Codex, Claude and Gemini — format translation (tools, streaming, thinking), credential rotation, hot reload | Python · FastAPI · SSE · Docker |
 | [**TTSProxyAPI**](https://github.com/cuongnguyengit/TTSProxyAPI) | Quota-aware, OpenAI-compatible TTS gateway: 100+ logical voices over cloud (Google, Azure, Polly, OpenAI, ElevenLabs, Fish Audio) and self-hosted backends (VietTTS, Kokoro, Edge TTS), with admission control, long-form chunking, caching and a TTS quality-evaluation framework | Python · FastAPI · SQLite · Docker |
 
