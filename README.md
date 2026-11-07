@@ -58,10 +58,3 @@ LLM & Agentic Applications, LLM-as-judge evaluation loops, and the LLMOps that k
 
 **LLM systems:** agentic RAG · planner/worker & ReAct agents · multi-agent routing · guardrails (prompt injection, PII, KB poisoning) · LLM-as-judge evaluation · self-hosted inference
 **Speech & NLP:** Vietnamese TTS (FastSpeech2, VITS-family), text normalization, NLU for chatbots & callbots
-
-## 📊 Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cuongnguyengit&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnguyengit&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
