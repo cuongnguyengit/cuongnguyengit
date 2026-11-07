@@ -57,4 +57,5 @@ LLM & Agentic Applications, LLM-as-judge evaluation loops, and the LLMOps that k
 ![Opik](https://img.shields.io/badge/Opik-FF6B35)
 
 **LLM systems:** agentic RAG · planner/worker & ReAct agents · multi-agent routing · guardrails (prompt injection, PII, KB poisoning) · LLM-as-judge evaluation · self-hosted inference
+
 **Speech & NLP:** Vietnamese TTS (FastSpeech2, VITS-family), text normalization, NLU for chatbots & callbots
